@@ -18,8 +18,8 @@ delayMicroseconds(10);
 digitalWrite(trigPin, LOW);  
   
 pinMode(echoPin,INPUT); //讀取 echo 的電位  
-duration = pulseIn(echoPin, HIGH);  //收到高電位時的時間  
-  
+duration = pulseIn(echoPin, HIGH);  //收到高電位時的時間   
+    
 cm = (duration/2) / 29.1; //將時間換算成距離 cm 或 
 inches = (duration/2) / 74;  
   
