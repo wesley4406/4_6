@@ -34,6 +34,6 @@ delay(250);
 }  
 
 \
-![image](https://github.com/wesley4406/4_6/blob/main/video-1617678039.mp4)  
+![image](https://github.com/wesley4406/4_6/blob/main/Hnet-image.gif)  
 
-![image](https://github.com/wesley4406/4_6/blob/main/video-1617678044.mp4)  
+![image](https://github.com/wesley4406/4_6/blob/main/Hnet-image%20(1).gif)  
